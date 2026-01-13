@@ -25,7 +25,7 @@ Each project folder includes:
 ## 📁 Projects
 
 ### 🔐 NFC Smart Lock System
-**Folder:** `/nfc_smart_lock`
+**Folder:** `/nfc_lock`
 
 An NFC-based access control system using:
 - PN532 NFC reader (I²C)
