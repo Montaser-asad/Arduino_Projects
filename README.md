@@ -41,7 +41,7 @@ An NFC-based access control system using:
 - Servo-controlled locking
 
 ➡️ See full documentation inside:  
-`/nfc_smart_lock/README.md`
+`/nfc_lock/README.md`
 
 ---
 
