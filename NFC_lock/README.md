@@ -34,7 +34,7 @@ Users can scan NFC cards to unlock a door, add new authorized cards, or remove e
 ### PN532 (I²C)
 | PN532 | Arduino |
 |--------|---------|
-| VCC | 5V |
+| VCC | 3V |
 | GND | GND |
 | SDA | A4 |
 | SCL | A5 |
