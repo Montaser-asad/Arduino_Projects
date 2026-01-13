@@ -15,7 +15,6 @@ Each project folder includes:
 
 - Arduino Uno / Nano
 - C++ (Arduino framework)
-- I²C / SPI / UART communication
 - Sensors & Actuators
 - LCD / OLED Displays
 - Servo & DC Motors
